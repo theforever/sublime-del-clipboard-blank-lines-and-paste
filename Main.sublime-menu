@@ -4,7 +4,7 @@
         "children":
         [
             {
-                "caption": "Delete clipboard's blank lines then paste",
+                "caption": "Paste with del blank lines",
                 "command": "clipboard_delete_blank_lines_paste"
             }
         ]
