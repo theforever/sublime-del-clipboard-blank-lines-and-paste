@@ -1,4 +1,4 @@
-# Delete clipboard's blank lines then paste
+# Delete blank lines of clipboard and then paste
 
 import sublime, sublime_plugin, re
 
