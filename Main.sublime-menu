@@ -1,7 +1,6 @@
 [
     {
-        "id": "edit",
-        "children":
+        "id": "edit","children":
         [
             {
                 "caption": "Paste with del blank lines",
